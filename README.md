@@ -127,9 +127,6 @@ $$
 **Objetivo:** Incrementar en al menos 2% puntos el rating medio del negocio en un intervalo interanual.
 
 **Formula:**
-$$
-\mathrm{KPI}=\dfrac{R_{nuevas} - R_{pasadas}}{R_{pasadas}}\cdot100
-$$
 
 $$
 \mathrm{KPI}=\dfrac{\mathrm{Rating_{actual}}-\mathrm{Rating_{previo}}}{\mathrm{Rating_{previo}}}\cdot100
