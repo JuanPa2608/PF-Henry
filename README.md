@@ -129,8 +129,7 @@ $$
 **Formula:**
 
 $$
-\mathrm{KPI}
-=\dfrac{\mathrm{Rating_{actual}}-\mathrm{Rating_{previo}}}{\mathrm{Rating_{previo}}}\cdot100
+\mathrm{KPI}=\dfrac{\mathrm{Rating_{actual}}-\mathrm{Rating_{previo}}{\mathrm{Rating_{previo}}}}\cdot100
 $$
 
 **Justificación:** Este indicador mide la variación de la popularidad del negocio según sus consumidores, mientras mas alto sea mas alta la probabilidad de obtener nuevos consumidores.
